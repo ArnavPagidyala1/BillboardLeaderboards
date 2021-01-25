@@ -4,9 +4,5 @@ Returns the top 5 artist and song picks for the Hot 100, Billboard 200, Billboar
 
 # Example
 
-'''
 print(Billboard.hot100())
-print(Billboard.billboard200())
-print(Billboard.billboardGlobal200())
-print(Billboard.artist1000())
-'''
+
